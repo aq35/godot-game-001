@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {
+      "id": "character_01",
+      "name": "Alice",
+      "model_path": "res://assets/characters/models/character_01.glb",
+      "preview_image": "res://assets/ui/icons/character_icons/alice.png",
+      "description": "元気で明るいキャラクター"
+    },
+    {
+      "id": "character_02", 
+      "name": "Bob",
+      "model_path": "res://assets/characters/models/character_02.glb",
+      "preview_image": "res://assets/ui/icons/character_icons/bob.png",
+      "description": "落ち着いた大人のキャラクター"
+    },
+    {
+      "id": "character_03",
+      "name": "Carol",
+      "model_path": "res://assets/characters/models/character_03.glb",
+      "preview_image": "res://assets/ui/icons/character_icons/carol.png",
+      "description": "知的で優雅なキャラクター"
+    },
+    {
+      "id": "character_04",
+      "name": "Dave",
+      "model_path": "res://assets/characters/models/character_04.glb",
+      "preview_image": "res://assets/ui/icons/character_icons/dave.png",
+      "description": "力強く頼れるキャラクター"
+    }
+  ]
+}

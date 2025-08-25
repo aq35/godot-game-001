@@ -1,0 +1,26 @@
+{
+  "templates": [
+    {
+      "id": "standard_room",
+      "name": "標準ルーム",
+      "max_members": 10,
+      "world_scene": "res://scenes/worlds/private_rooms/StandardRoom.tscn",
+      "permissions": {
+        "owner_only_settings": true,
+        "member_invite": true,
+        "public_join": false
+      }
+    },
+    {
+      "id": "large_room",
+      "name": "大型ルーム",
+      "max_members": 50,
+      "world_scene": "res://scenes/worlds/private_rooms/LargeRoom.tscn",
+      "permissions": {
+        "owner_only_settings": true,
+        "member_invite": true,
+        "public_join": true
+      }
+    }
+  ]
+}

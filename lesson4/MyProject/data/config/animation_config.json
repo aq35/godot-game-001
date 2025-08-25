@@ -1,0 +1,18 @@
+{
+  "speed_thresholds": {
+    "walk": 1.0,
+    "run": 4.0
+  },
+  "animation_mapping": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "run",
+    "jump": "jump",
+    "fall": "fall",
+    "land": "land"
+  },
+  "sync_settings": {
+    "send_interval": 0.1,
+    "interpolation_speed": 10.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "chat": {
+    "max_history": 1000,
+    "message_fade_time": 5.0,
+    "font_size": 14,
+    "colors": {
+      "system": "#888888",
+      "user": "#000000",
+      "admin": "#ff0000"
+    }
+  },
+  "room": {
+    "default_capacity": 10,
+    "name_max_length": 50,
+    "description_max_length": 200
+  },
+  "ui": {
+    "fade_duration": 0.3,
+    "button_hover_scale": 1.1,
+    "notification_duration": 3.0
+  }
+}

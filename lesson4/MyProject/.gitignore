@@ -1,0 +1,10 @@
+.import/
+export.cfg
+export_presets.cfg
+.import
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+override.cfg
+data/cache/
